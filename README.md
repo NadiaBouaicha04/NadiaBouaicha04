@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nadia Bouaicha
 
-I'm a **Data Science & MLOps engineering student** (Double Degree Bac+5 — 3iL / ESPRIT), passionate about building intelligent systems that go from experimentation to production. I enjoy working across the full data stack — **NLP, Deep Learning, MLOps, Data Engineering and BI** — turning raw data into reliable, monitored, and impactful solutions.
+I'm a Computer Engineering student — Double Degree Bac+5 in Data Science, Big Data & Business Intelligence (3iL France / ESPRIT Tunisia), passionate about building intelligent systems that go from experimentation to production. I enjoy working across the full data stack — NLP, Deep Learning, MLOps, Data Engineering and BI — turning raw data into reliable, monitored, and impactful solutions.
 
 ---
 
