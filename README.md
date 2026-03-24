@@ -60,49 +60,6 @@ I'm a Computer Engineering student — Double Degree Bac+5 in Data Science, Big 
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 [Get Hired — AI Recruitment Engine](https://github.com/NadiaBouaicha04) *(2026)*
-> NLP-powered CV–job matching system with multilingual text processing
-- Fine-tuned **BERT Transformers** for semantic CV–job matching across multilingual data — scoring and classification of correspondences
-- Explainable recommendations via **XAI** (SHAP) for transparent and auditable hiring decisions
-- Deployed as a **REST API** (FastAPI) with end-to-end automated pipeline
-
-### ⚙️ [MLOps Pipeline — Telecom Churn](https://github.com/NadiaBouaicha04) *(Feb. – Mar. 2024)*
-> Full MLOps lifecycle: from model training to production monitoring
-- Automated ML deployment with **MLflow** and **Docker** — **CI/CD** pipeline via GitHub Actions
-- Production monitoring via **Elasticsearch / Kibana** — automated performance alerts and drift detection
-- Full traceability of model versions, metrics, and artifacts (MLflow Model Registry)
-
-### 🏥 [Medical OCR — Doxaria](https://github.com/NadiaBouaicha04) *(2025)*
-> Document AI pipeline for medical document recognition
-- Deep learning pipeline (CRNN, **TrOCR**) for document **classification and extraction** — applied to real medical records
-- Model performance evaluation and **production monitoring**
-
-### ⚡ [DPE Pipeline — Open Data University Challenge](https://github.com/NadiaBouaicha04) *(2025–2026)*
-> End-to-end data engineering pipeline for energy performance prediction
-- Full pipeline: **Kafka** ingestion → **Spark** transformation (Bronze/Silver/Gold) → **Airflow** orchestration — containerized with **Docker**
-- Predictive modeling (Random Forest, Gradient Boosting) — **R² = 0.96**
-- Interactive **Streamlit** dashboard with energy renovation scenario simulator
-
-### 📊 [Customer Churn Prediction — Telecom](https://github.com/NadiaBouaicha04) *(2024)*
-> ML pipeline for customer churn prediction at scale
-- Exploratory analysis of **100,000+ customer records** (Python, SQL) — feature engineering, SMOTE, cross-validation
-- Predictive modeling and scoring (scikit-learn) with **Power BI** KPI dashboard
-
-### 📈 [Sales Performance Dashboard — Power BI](https://github.com/NadiaBouaicha04) *(2025)*
-> End-to-end BI solution for sales analysis and strategic decision-making
-- Data modeling with **star schema** and ETL transformations (Power Query) for optimized report performance
-- Advanced **DAX measures** for strategic KPIs : revenue trends, profitability by region and category, YoY comparisons
-- Multi-page interactive dashboard with drill-through, slicers and executive-level storytelling
-
----
-
-## 📜 Certifications
-- 🏅 **NVIDIA** — Certificate of Competency: AI for Anomaly Detection
-- 🏅 **NVIDIA** — Certificate of Competency: Transformer-Based NLP Applications
-- ☁️ **AWS Academy** Graduate — Cloud Foundations
-- 🔗 **Hedera Hashgraph** Developer Certification
 
 ---
 
