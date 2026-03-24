@@ -58,12 +58,4 @@ I'm a Computer Engineering student — Double Degree Bac+5 in Data Science, Big 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
----
 
-
----
-
-## 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadia-bouaicha-b00396343/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NadiaBouaicha04)
-📧 bouaichn@3il.fr
